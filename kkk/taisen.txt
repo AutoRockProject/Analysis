@@ -1,0 +1,1012 @@
+[con1] Timestamp: 2025-12-23 13:55:54.760588, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:55:54.810521, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:55:54.820509, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:55:54.830497, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:55:54.830497, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:55:54.832497, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:55:54.842505, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:55:55.352732, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:55:55.353751, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:55:55.391691, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:55:55.391691, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:55:55.394704, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:55:55.396684, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:55:55.396684, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:55:55.418688, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:55:55.667983, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:55:55.687965, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:55:55.687965, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:55:55.695938, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:55:55.765884, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:55:56.148037, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:55:56.178005, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:55:56.207974, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:55:56.225955, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:55:56.245954, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 13:55:56.297882, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:55:56.315861, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:55:56.317860, Code: Y, State: 1
+[con2] Timestamp: 2025-12-23 13:55:56.347831, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 13:55:56.387808, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:55:56.397779, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:55:56.496676, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:55:56.526663, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:55:56.545911, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:55:56.866231, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:55:57.245840, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:55:57.347733, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:55:57.347733, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:55:57.418680, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:55:57.498578, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:55:57.538562, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:55:57.538562, Code: Y, State: 1
+[con2] Timestamp: 2025-12-23 13:55:57.578538, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:55:58.696003, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:55:58.696003, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:55:58.737960, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:55:58.817878, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:55:58.887806, Code: Y, State: 1
+[con2] Timestamp: 2025-12-23 13:55:58.897794, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:55:59.098590, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:55:59.328378, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:55:59.408299, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:55:59.648190, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:55:59.668190, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:55:59.668190, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:56:00.047851, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:56:00.057859, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:56:00.107789, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:56:00.157743, Code: Y, State: 1
+[con2] Timestamp: 2025-12-23 13:56:00.177720, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:56:00.178719, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:00.237802, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 13:56:00.257761, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:56:00.358661, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:00.398620, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:56:00.547985, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:56:00.767762, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:00.787741, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:56:00.827700, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:56:00.831696, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:56:00.894087, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:00.906075, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:56:00.918061, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:00.928052, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:56:00.950451, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:56:01.028370, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:56:01.030368, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 13:56:01.095859, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:01.167784, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:56:01.388580, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:56:01.639906, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:56:01.649914, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:01.779780, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:56:01.789752, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:56:02.249887, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:02.379753, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:56:02.530595, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:56:02.600531, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:02.859821, Code: Y, State: 1
+[con2] Timestamp: 2025-12-23 13:56:02.909770, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:02.969707, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:03.040634, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:03.060612, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:03.249961, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:56:03.329897, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:03.349877, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:56:03.359848, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:03.479725, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:56:03.489715, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:03.630568, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:56:03.720520, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:03.739924, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:56:03.739924, Code: ABS_RZ, State: 67
+[con1] Timestamp: 2025-12-23 13:56:03.939718, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:56:04.166508, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:04.435771, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:04.437768, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:56:04.487716, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:56:04.513690, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:04.997739, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:56:05.067667, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:56:05.069666, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:56:05.089644, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:05.089644, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:56:05.091643, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 13:56:05.101632, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:56:05.162569, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:56:05.258003, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:56:05.417856, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:56:05.437839, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:56:05.487787, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:56:05.597651, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:56:05.929897, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:56:06.041777, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:56:06.061758, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:56:06.332483, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:06.441910, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:56:06.441910, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:56:06.453898, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:06.491860, Code: ABS_RZ, State: 54
+[con2] Timestamp: 2025-12-23 13:56:06.493859, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:56:06.513843, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:56:06.575774, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:06.615732, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:56:06.625722, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:56:06.655692, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 13:56:06.766577, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:56:07.097793, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:07.306579, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:56:07.457966, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:07.507915, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:56:07.517904, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:07.537902, Code: ABS_RZ, State: 41
+[con1] Timestamp: 2025-12-23 13:56:07.565855, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:56:07.615803, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 13:56:07.645790, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:07.675742, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:56:07.701716, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:07.701716, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:56:07.703730, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:07.723693, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:56:07.753660, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:07.773639, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:56:07.824587, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:56:07.834576, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:07.856554, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:07.906505, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:07.926483, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:07.946485, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:56:07.946485, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 13:56:07.956457, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:56:07.966446, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:56:08.026401, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:56:08.466057, Code: ABS_RZ, State: 68
+
+プログラムを終了します。
+PS C:\Users\user\Documents> & C:/Users/user/AppData/Local/Programs/Python/Python39/python.exe c:/Users/user/Documents/test.py
+コントローラーの入力を待っています... (Ctrl+C で終了)
+2台のコントローラーが見つかりました:
+  con1: Microsoft X-Box 360 pad
+[スレッド開始] con1: Microsoft X-Box 360 pad
+  con2: Microsoft X-Box 360 pad
+[スレッド開始] con2: Microsoft X-Box 360 pad
+
+--- すべてのコントローラからの入力を監視中 ---
+（Ctrl+C で終了）
+
+[con1] Timestamp: 2025-12-23 13:59:01.582056, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:04.512747, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:06.573955, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:06.586943, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:08.506935, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:08.860094, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:09.224251, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:09.226247, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:09.244229, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:09.286187, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:09.314159, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:09.386084, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 13:59:09.394075, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:09.456010, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:09.456010, Code: Y, State: 1
+[con2] Timestamp: 2025-12-23 13:59:09.477989, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:09.517947, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:09.668072, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:10.016679, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:10.446164, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:10.748365, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:10.758353, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:10.798313, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:10.826282, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:10.848676, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:10.866657, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:10.868656, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:59:10.946579, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:10.966559, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 13:59:11.078452, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:11.706821, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:11.778745, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:11.798725, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:11.838683, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:11.868653, Code: Y, State: 1
+[con2] Timestamp: 2025-12-23 13:59:11.908610, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:12.038478, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:12.076437, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:12.276232, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:12.376128, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:12.525974, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:12.556943, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:12.608889, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:12.708784, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:12.858630, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:13.138341, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:13.318156, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:59:13.386086, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:13.398072, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:13.408063, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:13.408063, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:59:13.497970, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:59:13.559906, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:13.628835, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:13.658805, Code: Y, State: 1
+[con2] Timestamp: 2025-12-23 13:59:13.678782, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:13.756702, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:59:13.758700, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:13.808648, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:13.818638, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:13.820637, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:13.994459, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:14.148299, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:14.148299, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:14.150298, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:14.152295, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:14.244200, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:14.418020, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:14.479954, Code: B, State: 1
+[con2] Timestamp: 2025-12-23 13:59:15.010407, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:15.026393, Code: UpRight, State: (x=1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:15.026393, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:15.046370, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:15.276133, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:15.296113, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:15.386021, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:15.406997, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:15.509892, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:15.556844, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:15.716679, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:15.800591, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:15.896493, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:15.916473, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:15.976410, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:15.996391, Code: ABS_RZ, State: 43
+[con2] Timestamp: 2025-12-23 13:59:16.100283, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:59:16.100283, Code: ABS_RZ, State: 10
+[con1] Timestamp: 2025-12-23 13:59:16.212167, Code: ABS_RZ, State: 18
+[con2] Timestamp: 2025-12-23 13:59:16.308068, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:16.397976, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:16.427944, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:16.738622, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:16.788573, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:16.838521, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:16.858501, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:16.868490, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:16.878479, Code: ABS_RZ, State: 47
+[con2] Timestamp: 2025-12-23 13:59:16.908447, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:16.946409, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:16.968387, Code: ABS_RZ, State: 91
+[con2] Timestamp: 2025-12-23 13:59:16.970386, Code: ABS_Z, State: 24
+[con2] Timestamp: 2025-12-23 13:59:17.090261, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:17.355986, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:17.383958, Code: ABS_RZ, State: 26
+[con1] Timestamp: 2025-12-23 13:59:17.411929, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:17.411929, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:17.496843, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:17.587900, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:17.587900, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:17.688807, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:59:17.716765, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:17.756726, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:17.756726, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:59:17.907902, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:59:17.996812, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:18.056279, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:18.078256, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:18.278048, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:18.357966, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:18.385940, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:18.427895, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:18.476845, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:18.516803, Code: ABS_RZ, State: 31
+[con1] Timestamp: 2025-12-23 13:59:18.637924, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:18.687873, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:18.718838, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:18.808746, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:18.808746, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:18.836718, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:18.858690, Code: ABS_RZ, State: 28
+[con2] Timestamp: 2025-12-23 13:59:19.277884, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:19.303858, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:19.657934, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:19.679912, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:19.750837, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:19.764823, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:19.814771, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:19.824762, Code: ABS_RZ, State: 32
+[con2] Timestamp: 2025-12-23 13:59:19.840744, Code: ABS_Z, State: 49
+[con2] Timestamp: 2025-12-23 13:59:19.856307, Code: ABS_RZ, State: 47
+[con1] Timestamp: 2025-12-23 13:59:19.922241, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:20.040118, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:20.040118, Code: ABS_RZ, State: 47
+[con1] Timestamp: 2025-12-23 13:59:20.058099, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:20.098058, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:20.118037, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:20.167986, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:20.400746, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:20.848807, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:20.898757, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:20.898757, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:20.928725, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:20.970373, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:59:20.978364, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:20.998344, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:21.038303, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 13:59:21.078259, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:21.090248, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:21.098239, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:21.150188, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:59:21.218116, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:59:21.240092, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:21.349980, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:59:21.397931, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:21.427899, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:21.447880, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:21.507817, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:21.538785, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:59:21.690636, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:21.790539, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:21.800527, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:21.840487, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:21.910017, Code: Y, State: 1
+[con2] Timestamp: 2025-12-23 13:59:21.920007, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:21.929996, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:21.969953, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:22.069852, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:22.087833, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:22.298160, Code: ABS_RZ, State: 33
+[con1] Timestamp: 2025-12-23 13:59:22.336121, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:22.483970, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:22.609837, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:22.664782, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:22.870093, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:22.870093, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:22.880082, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:22.900063, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:22.930031, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:22.973985, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:22.979979, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:22.993963, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:23.003955, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:23.019939, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:23.039918, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:23.060895, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:23.079875, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:23.103852, Code: ABS_RZ, State: 12
+[con2] Timestamp: 2025-12-23 13:59:23.119834, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:23.150801, Code: Y, State: 1
+[con2] Timestamp: 2025-12-23 13:59:23.539961, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:23.540961, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:23.540961, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:23.541959, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:23.551950, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:23.641857, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:23.702792, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:23.740755, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:23.751848, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:23.769830, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:23.809786, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:23.842752, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:23.852754, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:23.890704, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:23.892704, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:23.892704, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:23.894700, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:23.944695, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:23.992646, Code: ABS_RZ, State: 47
+[con1] Timestamp: 2025-12-23 13:59:23.996643, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:24.004633, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:59:24.070610, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:24.146055, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:24.235963, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:24.265930, Code: ABS_RZ, State: 10
+[con2] Timestamp: 2025-12-23 13:59:24.275922, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:24.283915, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:24.283915, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:24.315881, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:24.375817, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:24.414778, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:24.418774, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:24.472720, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:24.602110, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:24.709998, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:24.709998, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:24.709998, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:24.709998, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:24.711994, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:59:24.731975, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:24.761945, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:24.773932, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:25.166027, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:25.241949, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:25.645887, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:25.712818, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:25.725806, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:25.792736, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:25.802736, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:25.822705, Code: ABS_RZ, State: 15
+[con1] Timestamp: 2025-12-23 13:59:25.860508, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:25.886480, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:25.890477, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:25.922445, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:26.000363, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:26.040323, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:26.060302, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:26.062300, Code: ABS_RZ, State: 5
+[con1] Timestamp: 2025-12-23 13:59:26.102259, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:26.196160, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:26.258097, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:26.268086, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:26.278077, Code: ABS_RZ, State: 23
+[con2] Timestamp: 2025-12-23 13:59:26.405944, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:59:26.475872, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:26.555789, Code: ABS_RZ, State: 42
+[con1] Timestamp: 2025-12-23 13:59:26.624719, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:26.634708, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:26.716425, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:26.726413, Code: ABS_RZ, State: 9
+[con2] Timestamp: 2025-12-23 13:59:26.746392, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:26.816322, Code: UpRight, State: (x=1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:26.866268, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:26.876259, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:26.884251, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:26.886249, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:26.906229, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:27.014117, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:27.084043, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:27.086043, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:27.126001, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:27.128000, Code: ABS_RZ, State: 51
+[con1] Timestamp: 2025-12-23 13:59:27.157968, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:27.472172, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:27.472172, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:27.544096, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:27.765868, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:27.835794, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:27.896733, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:27.908721, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:27.972192, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:27.994167, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:28.016145, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:28.016145, Code: ABS_RZ, State: 16
+[con2] Timestamp: 2025-12-23 13:59:28.046115, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:28.048114, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:28.106055, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:28.116043, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:28.126032, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:28.187970, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:28.197959, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:28.207948, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:28.237915, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:28.257895, Code: ABS_RZ, State: 21
+[con1] Timestamp: 2025-12-23 13:59:28.297855, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:28.436712, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:28.446702, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:28.725950, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:28.755918, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:28.865806, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:29.026639, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:29.136071, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:29.255947, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:29.305896, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:29.325875, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:29.365834, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:29.415782, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 13:59:29.626569, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:29.636109, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:29.636109, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:29.706035, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:29.706035, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:29.706035, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:29.706035, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:29.706035, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:29.726016, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 13:59:29.825913, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 13:59:29.865873, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:29.955777, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:29.965767, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 13:59:29.976757, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:29.996735, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 13:59:29.998735, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:30.056673, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:30.146121, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:30.375883, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:59:30.391866, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:30.423833, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:30.504751, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:30.534720, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:30.556697, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:30.584670, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:30.616635, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:31.066699, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:31.068697, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:31.078686, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:31.088676, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:31.108654, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:31.218551, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:31.248059, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:31.487809, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:31.495801, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:31.507789, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:31.558737, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:31.588705, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:31.718097, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:31.740074, Code: UpRight, State: (x=1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:31.800013, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:31.819992, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:31.829982, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 13:59:31.839971, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:31.889921, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:32.150187, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:32.160179, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:32.180158, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:32.186151, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:32.206131, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:32.216119, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:32.335996, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:32.345985, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:32.395936, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:32.405925, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 13:59:32.585740, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:32.616707, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:32.850000, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:32.879971, Code: ABS_RZ, State: 17
+[con2] Timestamp: 2025-12-23 13:59:33.186653, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:33.216623, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:33.336432, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:33.346422, Code: ABS_RZ, State: 15
+[con2] Timestamp: 2025-12-23 13:59:33.716623, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:33.736604, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:33.738600, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:33.812525, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:33.858009, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:33.867999, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:33.917948, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:33.987876, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:34.332045, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:34.332045, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:34.342036, Code: UpRight, State: (x=1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:34.451920, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:34.718646, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:34.728635, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:34.878492, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:35.012359, Code: ABS_RZ, State: 40
+[con1] Timestamp: 2025-12-23 13:59:35.050327, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:35.060316, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:35.110264, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 13:59:35.187714, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:35.189710, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:35.199703, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:35.250648, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:35.288609, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:35.337782, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:35.357760, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:35.399720, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:35.470646, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:35.749990, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:35.949783, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:35.969761, Code: ABS_RZ, State: 26
+[con1] Timestamp: 2025-12-23 13:59:36.007725, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:36.038690, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:36.088640, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:36.176553, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:36.186544, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:36.285976, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:59:36.519735, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:36.519735, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:36.539714, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:36.576674, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:36.576674, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 13:59:36.580672, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:36.616632, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 13:59:36.642614, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 13:59:36.652604, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:36.696557, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:36.722531, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:36.736181, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:36.762153, Code: UpRight, State: (x=1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:36.816101, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:36.945963, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:36.955955, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:36.985925, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:37.075830, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:37.392056, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:37.442003, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:37.481965, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:37.531912, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:37.551891, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:37.581859, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:37.591848, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 13:59:37.621819, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:37.671768, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:38.196248, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:38.251733, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:38.301681, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:38.396584, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:59:38.412567, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:38.446538, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:38.476505, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:38.526456, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:38.555954, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:38.595912, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:38.797703, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:38.847653, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:38.847653, Code: ABS_RZ, State: 30
+[con1] Timestamp: 2025-12-23 13:59:38.866632, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 13:59:38.902595, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:38.926571, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:38.946075, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:39.041974, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:39.045971, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:44.709839, Code: B, State: 1
+[con2] Timestamp: 2025-12-23 13:59:44.709839, Code: Y, State: 1
+[con2] Timestamp: 2025-12-23 13:59:45.199862, Code: B, State: 1
+[con2] Timestamp: 2025-12-23 13:59:45.199862, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:59:45.287771, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 13:59:47.660565, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:47.764465, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:47.780448, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:48.513746, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:48.523736, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:48.543715, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:48.559697, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:48.643611, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:48.710544, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:48.740512, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:48.780469, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:48.920332, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:48.930322, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:49.149822, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:50.014477, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:50.520506, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:50.853696, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:50.853696, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:50.883664, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:50.923623, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:51.064477, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 13:59:51.510573, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:53.341865, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:53.591607, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:53.603595, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:53.664530, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:53.789955, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:54.314413, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:54.364052, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:54.493917, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:54.623785, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:54.683722, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:54.685719, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:54.695710, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:54.795607, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:55.156254, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:55.156254, Code: UpRight, State: (x=1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:55.615606, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:55.678540, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:55.686531, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:55.728489, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 13:59:55.758457, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 13:59:55.776440, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 13:59:57.039837, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:57.516353, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:57.705695, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:57.759639, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:58.050345, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:58.385549, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:59:58.397535, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 13:59:58.430499, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 13:59:58.590342, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:58.630298, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:58.640289, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:58.650209, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:58.670190, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:58.740150, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:58.741659, Code: ABS_RZ, State: 51
+[con1] Timestamp: 2025-12-23 13:59:58.769629, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:58.839555, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:58.879514, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:58.907487, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:58.909485, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:58.928464, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:58.948443, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:58.968424, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:58.978413, Code: ABS_RZ, State: 39
+[con1] Timestamp: 2025-12-23 13:59:59.075700, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 13:59:59.075700, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:59.085690, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 13:59:59.095682, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 13:59:59.119657, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 13:59:59.189585, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:59.199574, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:59.273498, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:59.653670, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 13:59:59.669654, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:59.953883, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 13:59:59.959876, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 13:59:59.963872, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 13:59:59.993842, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:00.009825, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 14:00:00.011823, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 14:00:00.043790, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:00.091742, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:00.153676, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 14:00:00.183645, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 14:00:00.341484, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:00.372451, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:00.374449, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:00.382441, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:01.723469, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:01.894295, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:02.374353, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:02.494232, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:02.584206, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:02.604186, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:02.634152, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:02.643811, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:02.663792, Code: UpRight, State: (x=1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:02.893555, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:02.933513, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:02.933513, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:02.943501, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:03.024418, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 14:00:03.293689, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:03.455522, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:03.696284, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:03.756349, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:03.796308, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:03.808295, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 14:00:03.840262, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:03.939877, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:03.969846, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:04.001813, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:04.441909, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:04.621723, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:04.683659, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:04.743597, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:04.793546, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:04.823515, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 14:00:04.843494, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:04.855482, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:05.221632, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:05.371476, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:05.381465, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:05.401447, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:05.411437, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:05.516327, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:05.895455, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:05.901451, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:05.915436, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:05.976373, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:06.016332, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 14:00:06.018330, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:06.032316, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 14:00:06.078257, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:06.088244, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:06.118213, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:06.177702, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:06.207670, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:06.217660, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:06.351535, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:06.441431, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:06.651751, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:06.761636, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:06.847548, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:07.368029, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:07.398000, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:07.437958, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:07.507887, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 14:00:07.685703, Code: Right, State: (x=8504, y=-64)
+[con2] Timestamp: 2025-12-23 14:00:07.801583, Code: UpRight, State: (x=27579, y=-16865)
+[con2] Timestamp: 2025-12-23 14:00:07.823561, Code: Up, State: (x=16015, y=-27878)
+[con2] Timestamp: 2025-12-23 14:00:07.903478, Code: Y, State: 1
+[con2] Timestamp: 2025-12-23 14:00:07.943435, Code: UpRight, State: (x=17332, y=-28533)
+[con2] Timestamp: 2025-12-23 14:00:07.969411, Code: Right, State: (x=28376, y=-16668)
+[con2] Timestamp: 2025-12-23 14:00:08.040342, Code: Center, State: (x=5372, y=-3082)
+[con1] Timestamp: 2025-12-23 14:00:08.168217, Code: LeftArrow, State: (x=-1, y=0)
+con2 (Microsoft X-Box 360 pad) 読み取りエラー: 'ABS_Y'
+[con2] Timestamp: 2025-12-23 14:00:08.807626, Code: Left, State: (x=-11513, y=3296)
+[con2] Timestamp: 2025-12-23 14:00:09.033394, Code: UpLeft, State: (x=-27746, y=-17713)
+[con2] Timestamp: 2025-12-23 14:00:09.054372, Code: Up, State: (x=-16155, y=-27973)
+[con1] Timestamp: 2025-12-23 14:00:09.178248, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:09.178248, Code: Center, State: (x=-7108, y=-7091)
+[con2] Timestamp: 2025-12-23 14:00:09.180247, Code: Left, State: (x=-8848, y=-7091)
+[con1] Timestamp: 2025-12-23 14:00:09.198228, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:09.226200, Code: B, State: 1
+[con1] Timestamp: 2025-12-23 14:00:09.228197, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:09.267805, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:09.287785, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:09.309761, Code: DownLeft, State: (x=-25914, y=16171)
+[con2] Timestamp: 2025-12-23 14:00:09.327743, Code: Left, State: (x=-8931, y=7400)
+[con2] Timestamp: 2025-12-23 14:00:09.329742, Code: Center, State: (x=-6826, y=7400)
+[con1] Timestamp: 2025-12-23 14:00:09.377691, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:09.387681, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:09.559503, Code: Up, State: (x=-376, y=-9458)
+[con1] Timestamp: 2025-12-23 14:00:09.618442, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:09.627432, Code: UpLeft, State: (x=-17070, y=-28128)
+[con2] Timestamp: 2025-12-23 14:00:09.655405, Code: B, State: 1
+[con2] Timestamp: 2025-12-23 14:00:09.657402, Code: Left, State: (x=-28297, y=-16786)
+[con2] Timestamp: 2025-12-23 14:00:09.722336, Code: DownLeft, State: (x=-28208, y=16951)
+[con2] Timestamp: 2025-12-23 14:00:09.740323, Code: Down, State: (x=-15914, y=27911)
+[con2] Timestamp: 2025-12-23 14:00:09.762301, Code: Center, State: (x=-282, y=5115)
+[con1] Timestamp: 2025-12-23 14:00:10.097484, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:10.226350, Code: Right, State: (x=10576, y=-15)
+[con2] Timestamp: 2025-12-23 14:00:10.333759, Code: Center, State: (x=4054, y=671)
+[con1] Timestamp: 2025-12-23 14:00:10.407680, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:10.407680, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:10.469618, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:10.539546, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:10.547539, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 14:00:10.679402, Code: Y, State: 1
+[con2] Timestamp: 2025-12-23 14:00:10.710369, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:10.758322, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:10.778300, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:10.778300, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 14:00:10.798280, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:10.847749, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:10.977617, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:10.979615, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:11.027565, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 14:00:11.219368, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:11.258328, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:11.280305, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:11.280305, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 14:00:11.349768, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:11.439674, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:11.467645, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:11.557552, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:11.729373, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:11.729373, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:11.739365, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:11.790313, Code: UpRight, State: (x=1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:11.868236, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:11.888217, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:11.898208, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:11.898208, Code: ABS_RZ, State: 19
+[con1] Timestamp: 2025-12-23 14:00:12.025604, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:12.029600, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:12.229391, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 14:00:12.296323, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:12.306315, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:12.326292, Code: ABS_RZ, State: 15
+[con1] Timestamp: 2025-12-23 14:00:12.393750, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 14:00:12.423719, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:12.463678, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:12.469673, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:12.533608, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:12.533608, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:12.549590, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:12.599538, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 14:00:12.603533, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:12.605532, Code: ABS_RZ, State: 2
+[con1] Timestamp: 2025-12-23 14:00:12.611524, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:12.649486, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:12.669465, Code: UpRight, State: (x=1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:12.730403, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:12.790339, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:12.792337, Code: ABS_RZ, State: 226
+[con1] Timestamp: 2025-12-23 14:00:12.820331, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:13.069639, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:13.420280, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:13.500201, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:13.620083, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:13.659682, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:13.791545, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:13.791545, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:13.799538, Code: B, State: 1
+[con1] Timestamp: 2025-12-23 14:00:13.833501, Code: DownLeft, State: (x=-1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:13.889444, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:13.895438, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:13.917416, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:13.929402, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:13.929402, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 14:00:14.290039, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:14.290039, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:14.699388, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:14.794291, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:14.830251, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 14:00:14.863769, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:14.893738, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:14.893738, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:14.893738, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 14:00:14.923707, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:14.923707, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:14.963666, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:14.963666, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:15.063561, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:15.063561, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 14:00:15.065560, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:15.103522, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:15.173449, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:15.183440, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:15.203418, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:15.213408, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:15.273345, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 14:00:15.346271, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:15.366250, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:15.424189, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:15.504117, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 14:00:15.535608, Code: Y, State: 1
+[con1] Timestamp: 2025-12-23 14:00:15.543599, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 14:00:15.573567, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:15.583558, Code: ABS_RZ, State: 34
+[con2] Timestamp: 2025-12-23 14:00:15.617524, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:15.643497, Code: A, State: 1
+[con2] Timestamp: 2025-12-23 14:00:15.677460, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:15.773363, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:15.794341, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:15.795339, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:15.815320, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:15.896237, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:15.968024, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:16.757731, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:16.937547, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:17.055426, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:17.437593, Code: UpRight, State: (x=1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:17.736284, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:17.768250, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:17.788230, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:17.848174, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:17.878144, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:17.898123, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 14:00:17.928092, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:17.928092, Code: RB, State: 1
+[con2] Timestamp: 2025-12-23 14:00:18.167384, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:18.167384, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:18.177372, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:18.197353, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:18.408144, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:18.418130, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:18.508047, Code: X, State: 1
+[con2] Timestamp: 2025-12-23 14:00:18.548007, Code: A, State: 1
+[con1] Timestamp: 2025-12-23 14:00:18.647911, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:18.947682, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:18.947682, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:18.967662, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:19.047580, Code: DownRight, State: (x=1, y=1)
+[con2] Timestamp: 2025-12-23 14:00:19.067560, Code: ABS_RZ, State: 82
+[con1] Timestamp: 2025-12-23 14:00:19.197427, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:19.463694, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:19.685465, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:19.705447, Code: UpRight, State: (x=1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:19.847300, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:19.947894, Code: UpRight, State: (x=1, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:20.005834, Code: RightArrow, State: (x=1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:20.159673, Code: RB, State: 1
+[con1] Timestamp: 2025-12-23 14:00:20.237592, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:20.277552, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:20.307522, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:20.327500, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 14:00:20.367459, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:20.381443, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:20.397429, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:20.421405, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:20.437389, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:20.457369, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:20.507314, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:20.527295, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 14:00:20.588230, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:20.618199, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:20.624195, Code: ABS_RZ, State: 55
+[con1] Timestamp: 2025-12-23 14:00:20.648176, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:20.718103, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:20.718103, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 14:00:20.728092, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:20.847518, Code: LeftArrow, State: (x=-1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:20.877489, Code: UpLeft, State: (x=-1, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:20.881484, Code: UpArrow, State: (x=0, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:20.937427, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 14:00:20.957406, Code: DownArrow, State: (x=0, y=1)
+[con1] Timestamp: 2025-12-23 14:00:20.967397, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:21.261536, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:21.341454, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:21.397396, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:21.447344, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:21.497291, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 14:00:21.518273, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:21.562226, Code: RightArrow, State: (x=1, y=0)
+[con1] Timestamp: 2025-12-23 14:00:22.139700, Code: DownArrow, State: (x=0, y=1)
+[con2] Timestamp: 2025-12-23 14:00:22.151688, Code: DownRight, State: (x=1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:22.171668, Code: DownLeft, State: (x=-1, y=1)
+[con1] Timestamp: 2025-12-23 14:00:22.221616, Code: LeftArrow, State: (x=-1, y=0)
+[con2] Timestamp: 2025-12-23 14:00:22.241594, Code: UpLeft, State: (x=-1, y=-1)
+[con1] Timestamp: 2025-12-23 14:00:22.273563, Code: X, State: 1
+[con1] Timestamp: 2025-12-23 14:00:22.305529, Code: UpArrow, State: (x=0, y=-1)
+[con2] Timestamp: 2025-12-23 14:00:22.741887, Code: RB, State: 1
